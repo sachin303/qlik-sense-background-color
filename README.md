@@ -4,14 +4,14 @@ An qlik extension to change qlik sense app back ground color
 
 # Installation
 
-*Download*
+##Download
 Download distribution zip file from here: https://github.com/sachin303/qlik-sense-background-color/blob/master/background/backgroundcolor.zip
 
 Qlik Sense Desktop: unzip to a directory under [My Documents]/Qlik/Sense/Extensions, for example backgroundcolor.
 
 Qlik Sense server: import the zip file in the QMC.
 
-*Usage*
+##Usage
 Drag and Drop the extension on qlik sense app sheet and configure.
 
 # Configuration
