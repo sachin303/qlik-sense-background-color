@@ -1,5 +1,5 @@
 {
-	"name": "backgroundcolor",
+	"name": "Background Color",
 	"description": "Add back ground color to your qlik sense apps/sheet",
 	"type": "visualization",
 	"version": "1.0.0",
@@ -8,7 +8,7 @@
 	"homepage": "xxx.com",
 	"keywords": "qlik-sense, visualization",
 	"license": "",
-	"repository": "https://github.com/sachin303/backgroundcolor",
+	"repository": "https://github.com/sachin303/qlik-sense-background-color",
 	"dependencies": {
 		"qlik-sense": ">=3.0.x"
 	}
