@@ -17,3 +17,7 @@ The extension requires two settings inside appearence >background info
 
 1. *Transparency* - **Required** - This is a number between 0 (transparent) and 1 (not transparent), this is the color overlayed on the video background.
 2. *Background Hex Color* - **Required** - This is any hex color value that will be the color of the background (e.g '#FFFFFF' for white, '#000000' for black).
+
+# Credits
+This extension is simplified version of video background extension
+http://www.webofwork.com/qlik-sense-video-background-extension
